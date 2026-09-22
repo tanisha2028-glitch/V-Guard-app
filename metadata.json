@@ -1,0 +1,6 @@
+{
+  "name": "V-Guard One",
+  "description": "Unified smart-home, product-service, and partner ecosystem for V-Guard in India. Bring Home a Better Tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
